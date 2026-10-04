@@ -4,7 +4,7 @@
 ## Why This Repo Exists
 This repository reflects my journey of self-mastery in Java and its entire development framework.
 
-It is proof that personal effort can make us more skilled than relying on otheres.
+It is proof that personal effort can make us more skilled than relying on others.
 At the beginning, you might fail while following your own plans — but that's how true developers are made: failing, then polishing your strategy using your own brain.
 This method creates a different breed of developers who can grow without falling into tutorial hell. Trust your instincts — but never blindly. Analyze your goals, plan step by step, and avoid haste.
 
@@ -38,7 +38,7 @@ BE THE DIRECTOR OF YOUR OWN JOURNEY!
 
 **My first program ever (it worked i think):
 ```java
-public class Hello {
+public class AbHogaComeback {
     public static void main(String[] args) {
         System.out.println("Acche din khud laane pdenge!")
     }
