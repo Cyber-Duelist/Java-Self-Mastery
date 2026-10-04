@@ -20,7 +20,8 @@ public class DifferentInputs {
         System.out.println("You gave the integer " + val2);
         System.out.println("You gave the double " + val3);
         System.out.println("You gave the boolean " + val4);
-
+        
+        reader.close();
 
     }
 }

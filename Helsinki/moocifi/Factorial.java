@@ -1,14 +1,18 @@
 package Helsinki.moocifi;
 import java.util.Scanner;
-
-public class DoubleInput{
+public class Factorial {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
         System.out.println("Give a number: ");
-        double value = Double.valueOf(reader.nextLine());
+        int num = Integer.valueOf(reader.nextLine());
 
-        System.out.println("You wrote " + value);
+        int fact = 1;
+
+        for (int i = 1; i <= num; i++) {
+            fact*=i;
+        }
+        System.out.println("Factorial: " + fact);
         reader.close();
 
     }
