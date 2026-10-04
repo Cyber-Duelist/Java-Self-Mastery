@@ -4,7 +4,8 @@ At the beginning you might fail while following your own plans but thats how the
 This methods creates a different breed of developers that really can develop on their own without needing to fall into tutorial hell. We must trust our instincts.
 But blind trust is fatal! hence we must analyze our goal properly and eventually make a step by step plan to approach it without being in a haste.
 
-NOTE to new junior Developers!!
+NOTE to new junior Developers!! :
+
 I am writing this as a junior developer myself, I have no CS background I am from Electronics domain but when the fire erupts from within it leads to transformation like Phoenix rising from the fire, BE THAT MYTHICAL PHOENIX!! .
 By the time you will get to see this repository I would have a become an expert developer.
 I would recommend everyone to not to follow someone to make your own self.
