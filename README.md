@@ -38,7 +38,7 @@ BE THE DIRECTOR OF YOUR OWN JOURNEY!
 
 **My first program ever (it worked i think):
 ```java
-public class AbHogaComeback {
+public class HoshMeyAao {
     public static void main(String[] args) {
         System.out.println("Acche din khud laane pdenge!")
     }
