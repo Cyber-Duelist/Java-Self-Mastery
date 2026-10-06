@@ -12,3 +12,7 @@
 ** Complete its python, DSA with python and Devops course as well before 2027 i,e till 31st december 2026.
 
 
+## Declaration date
+ 
+ ** 6th October 2026
+
