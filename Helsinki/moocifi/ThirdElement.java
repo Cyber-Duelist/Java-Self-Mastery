@@ -19,6 +19,7 @@ public class ThirdElement {
 
             list.add(input);
         }
+        reader.close();
 
         // printing the thrird element from the list.
         System.out.println(list.get(2));
