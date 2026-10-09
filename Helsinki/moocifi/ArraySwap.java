@@ -1,6 +1,5 @@
 package Helsinki.moocifi;
 import java.util.Scanner;
-import java.util.ArrayList;
 public class ArraySwap {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
