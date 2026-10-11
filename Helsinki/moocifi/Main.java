@@ -10,7 +10,7 @@ public class Main {
         double openingBalance = reader.nextDouble();
 
         // Createing account with user provided balance
-        FirstAccount account = new FirstAccount(openingBalance);
+        Account account = new Account(openingBalance);
 
         // Asking user for deposit amount
         System.out.println("Enter deposit amount: ");

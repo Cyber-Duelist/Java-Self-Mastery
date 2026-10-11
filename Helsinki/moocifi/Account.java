@@ -1,9 +1,9 @@
 package Helsinki.moocifi;
 
-public class FirstAccount {
+public class Account {
     private double balance;
 
-    public FirstAccount(double openingBalance) {
+    public Account(double openingBalance) {
         this.balance = openingBalance;
     }
 
